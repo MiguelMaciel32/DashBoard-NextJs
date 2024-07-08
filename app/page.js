@@ -231,7 +231,7 @@ export default function Dashboard() {
                   <CardTitle>Gastos</CardTitle>
                   <CardDescription className="max-w-lg text-balance leading-relaxed">
                     is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry's standard dummy
+                    industry. Lorem Ipsum has been the industrys standard dummy
                     text ever since the 1500s
                   </CardDescription>
                 </CardHeader>
